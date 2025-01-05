@@ -14,10 +14,6 @@ body {
     overflow: auto;
 }
 
-textarea, input[type="text"], input[type="number"], input[type="email"], input[type="password"], input[type="search"] {
-    font-size: 16px;
-}
-
 /* Resentment Container (Title and Textarea together) */
 .resentment-container {
     position: sticky; /* Makes the container sticky on scroll */
